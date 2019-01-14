@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2018.9.22)  13 JAN 2019 21:47
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2018.9.22)  14 JAN 2019 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,88 +228,82 @@ Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \colbreak@box=\box85
 \mc@col@check@num=\count112
 )
-(/usr/share/texlive/texmf-dist/tex/latex/endnotes/endnotes.sty
-\c@endnote=\count113
-\endnotesep=\dimen152
-\@enotes=\write3
-)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count114
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (./ishii.aux)
 \openout1 = `ishii.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 49.
+(Font)              scaled to size 9.24683pt on input line 50.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 49.
-\c@mpl=\count115
+(Font)              scaled to size 9.24683pt on input line 50.
+\c@mpl=\count113
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 57.
+(Font)              scaled to size 15.9785pt on input line 58.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 57.
+(Font)              scaled to size 15.9785pt on input line 58.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 60.
+(Font)              scaled to size 13.31541pt on input line 61.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 60.
+(Font)              scaled to size 13.31541pt on input line 61.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 65.
+(Font)              scaled to size 11.09619pt on input line 66.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 65.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
+(Font)              scaled to size 11.09619pt on input line 66.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
  [1
 
 ]
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 123.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 120.
+(Font)              <7> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 120.
+(Font)              <5> on input line 123.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 120.
+(Font)              scaled to size 6.47278pt on input line 123.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 120.
-LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 120.
-\openout3 = `ishii.ent'.
-
- [2]
+(Font)              scaled to size 4.62341pt on input line 123.
 File: 01.png Graphic file (type bmp)
  <01.png>
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 157.
+(Font)              scaled to size 8.32214pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 157.
-
-[3] [4] (./ishii.aux) ) 
+(Font)              scaled to size 8.32214pt on input line 128.
+ [2]
+(./ishii.aux) ) 
 Here is how much of TeX's memory you used:
- 3601 strings out of 494820
- 42882 string characters out of 6178927
- 123567 words of memory out of 5000000
- 7060 multiletter control sequences out of 15000+600000
- 11081 words of font info for 55 fonts, out of 8000000 for 9000
+ 3334 strings out of 494820
+ 39715 string characters out of 6178927
+ 113034 words of memory out of 5000000
+ 6795 multiletter control sequences out of 15000+600000
+ 11350 words of font info for 57 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
- 25i,5n,22p,805b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,4n,22p,668b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ishii.dvi (4 pages, 22652 bytes).
+Output written on ishii.dvi (2 pages, 14040 bytes).
