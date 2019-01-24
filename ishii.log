@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2018.9.22)  16 JAN 2019 13:09
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2018.9.22)  23 JAN 2019 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,21 +289,21 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 6.47278pt on input line 123.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 4.62341pt on input line 123.
-File: 01.png Graphic file (type bmp)
- <01.png>
+File: fig/01.pdf Graphic file (type pdf)
+ <fig/01.pdf>
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 128.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 128.
- [2]
-(./ishii.aux) ) 
+
+[2] (./ishii.aux) ) 
 Here is how much of TeX's memory you used:
  3334 strings out of 494820
- 39715 string characters out of 6178927
+ 39709 string characters out of 6178927
  113034 words of memory out of 5000000
  6795 multiletter control sequences out of 15000+600000
  11350 words of font info for 57 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
- 25i,4n,22p,664b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,5n,22p,664b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ishii.dvi (2 pages, 14032 bytes).
+Output written on ishii.dvi (2 pages, 13936 bytes).
