@@ -1,0 +1,230 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">          
+   <section data-markdown data-separator="^\n---$" data-vertical="^\n>>>$" >
+    <script type="text/template">
+
+
+## 考古学情報の再現可能性
+
+ ∼バージョン管理システムGitを
+ 
+利用した調査データの管理と公開∼
+
+<br>
+北海道厚沢部町　石井淳平
+
+---
+## お話させていただく内容
+<br>
+- 考古学情報の**真正性**と**再現可能性**
+- 考古学情報の**オープンデータ**化
+- **GitHub**利用によるデータ共有の実践例
+
+---
+### 媒体論ではない
+
+<img src="fig/usb.png" width=100%>
+
+---
+### 文化庁の立場
+<br>
+<p style="text-align: left">
+「（印刷物は）刊行後の改変が困難であるため,情報の真正性が確保できる」（文化庁2017『埋蔵文化財保護行政におけるデジタル技術の導入について 2 』 ( 報告 ),p12）
+</p>
+
+---
+### 情報処理プロセスの透明性
+
+<img src="fig/fieldnote.jpg" width=70%>
+
+---
+### 考古学情報の「真正性」
+<br>
+- 考古学情報の**価値**は真正性によって評価される
+- そのためには考古学情報の作成に使用された情報源が**信頼できる度合い**が評価されなければならない
+- どのような**プロセスで考古学情報が作成されたのか**に関する情報が真正性の評価には必須である
+
+---
+### 考古学情報作成プロセス
+<br>
+- どのような調査記録が選択されたのか
+- どのような処理がなされたのか
+
+---
+### **改変**可能性を減らすこと
+<br>
+<br>
+### **再現**可能性を高めること
+
+---
+### 情報
+<p style="text-align: left">
+事実，事象，事物，過程，着想などの対象物に関して知り得たことであって，概念を含み，**一定の文脈中**で**特定の意味**をもつもの。
+</p>
+
+<br>
+
+### データ
+<p style="text-align: left">
+情報の表現であって，伝達，解釈又は処理に適するように**形式化**され，再度情報として**解釈**できるもの。
+</p>
+
+---
+## GitHub
+
+<img src="fig/github_icon.png" width=60%>
+
+---
+## GitHub
+<br>
+- **変更履歴**を保存
+- **消去・改変**されたデータも保存
+- **ウェブ**で共有
+
+---
+## Gitとディレクトリ
+
+<img src="fig/directry.png" width=70%>
+
+---
+### 二股台場調査でのGit利用
+<br>
+- 遠隔地で整理作業
+- 複数人で調査記録の編集
+
+<br>
+調査記録の**公正性**の確保と**作業重複**の回避
+
+---
+### コマンドラインでの操作
+<br>
+```
+## 他の人がアップロードした変更内容を取得
+git pull
+## ディレクトリのすべてのファイルをリポジトリに登録
+git add .
+## 変更結果をローカルリポジトリにコミット
+git commit -m F02平面図を修正
+## 変更内容をアップロード
+git push origin master
+
+```
+
+---
+### GitKraken
+
+<img src="fig/gitkraken_r1.png" width=100%>
+
+---
+### GitKraken
+
+<img src="fig/gitkraken_r2.png" width=100%>
+
+---
+### 恥ずかしい修正履歴も残る
+
+<img src="fig/gitkraken03.png" width=100%>
+
+---
+### GitHubで履歴とともに公開
+
+<img src="fig/github_r1.png" width=80%>
+
+---
+### GitHubで履歴とともに公開
+
+<img src="fig/github02.png" width=70%>
+
+---
+### オープンデータとしての
+
+### 考古学情報
+<br>
+- 調査の原記録
+- 中間成果物
+
+<br>
+すべてのデータにアクセスできる環境の構築
+
+---
+### 考古記録の自由な利用
+<br>
+- 生のデータの利用
+- 考古学のフィルターのかからないデータ
+
+---
+### オープンな記録の作成
+<br>
+- 特定のソフトでしか開けない記録
+- イラストソフトの弊害
+
+---
+### CAD・GISの活用
+<img src="fig/gismap01.png" width=90%>
+
+---
+### CAD・GISの活用
+<img src="fig/gismap02.png" width=80%>
+
+---
+### ご清聴ありがとうございました。
+<br>
+- **再現**可能性
+- 原データ・中間成果物へのアクセス
+- **再利用**可能性
+- 国土の**基本情報**化
+
+
+    </script>
+</section>
+
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+		dependencies: [
+{ src: 'reveal.js-2.6.1/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: 'reveal.js-2.6.1/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } }
+]
+	</body>
+</html>
