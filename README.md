@@ -2,6 +2,10 @@
 
 ### 〜バージョン管理システムGitを利用した調査データの管理と公開〜
 
+### 当日発表スライド
+
+[https://ishiijunpei.github.io/2019kyoukai/](https://ishiijunpei.github.io/2019kyoukai/)
+
 ### 口頭発表原稿
 
 ## はじめに
